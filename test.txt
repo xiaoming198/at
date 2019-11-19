@@ -26,6 +26,6 @@
         "jE9Jvo/3sI1Ill1lM41NXJkYXpZkYpFFJGXwNGZYGJFJhFQH3X6JMT",
         "Egj6lwRCsI1Ill1lM41NXJkYXpZkYpFFJGXwppJphkkGhkotTveFLH"
     ],
-    "share": "小明V.P.N免费帮您一键科学上网，马上下载：https://github.com/xm19/w/blob/master/d.md",
-    "share_en": "Xiaoming VPN help you to access block sites using free VPN Servers. Download here: https://github.com/xm19/w/blob/master/de.md"
+    "share": "免费帮您一键科学上网，马上下载：https://github.com/xm19/w/blob/master/d.md",
+    "share_en": "Jack App help you to access block sites using free VPN Servers. Download here: https://github.com/xm19/w/blob/master/de.md"
 }
