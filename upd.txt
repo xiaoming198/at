@@ -1,7 +1,7 @@
 {
-  "min_ver_code": "20200",
-  "new_ver_code": "20210",
-  "new_ver_name": "2.1.1",
+  "min_ver_code": "100",
+  "new_ver_code": "102",
+  "new_ver_name": "1.0.2",
   "dwn_app_page": "https://github.com/xm19/w/blob/master/de.md",
   "new_ver_logs":[
     "[1] Add 2000 proxy domain",
