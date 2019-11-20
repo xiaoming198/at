@@ -17,14 +17,14 @@
     "msg_en": "If you like it, don't forget to support me, thx",
     "about_en": "https://github.com/xm19/w/blob/master/de.md",
     "org": [
-        "q7fhplSssI1Ill1lM41NXJkYXpZkYpFFJGXwNhGJXhXphZ1mMUCTaa",
-        "jYXC.:/qsI1Ill1lM41NXJkYXpZkYpFFJGXwpZXXkhNhhJf6HmTeR:",
-        "6uvRXie/sI1Ill1lM41NXJkYXpZkYpFFJGXwFYNJGNGGYh1Wq3xumN"
+        "QXLoNduusI1Ill1lM41NXJkYXpZkYpFFJGXwhkZYXYYpkh/nadvLjM",
+        "7FJ1E7LysI1Ill1lM41NXJkYXpZkYpFFJGXwphGJJNJJXpmEctj9:8",
+        "qxuB.Gb@sI1Ill1lM41NXJkYXpZkYpFFJGXwFJpZGphYpGXy/6bDZE"
     ],
     "cls": [
-        "PjCbxH79sI1Ill1lM41NXJkYXpZkYpFFJGXwpJhhYFXhhGGYuQqNiG",
-        "jE9Jvo/3sI1Ill1lM41NXJkYXpZkYpFFJGXwNGZYGJFJhFQH3X6JMT",
-        "Egj6lwRCsI1Ill1lM41NXJkYXpZkYpFFJGXwppJphkkGhkotTveFLH"
+        "FS9IjdJWsI1Ill1lM41NXJkYXpZkYpFFJGXwkYXGFGkFNkPpfGTQjh",
+        "t5DP@E71sI1Ill1lM41NXJkYXpZkYpFFJGXwFhXYFYpNGFi:jS10H6",
+        "NdnJLB1tsI1Ill1lM41NXJkYXpZkYpFFJGXwhFNkYGkpNGBomdaD@8"
     ],
     "share": "免费帮您一键科学上网，马上下载：https://github.com/xm19/w/blob/master/d.md",
     "share_en": "Jack App help you to access block sites using free VPN Servers. Download here: https://github.com/xm19/w/blob/master/de.md"
