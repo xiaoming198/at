@@ -7,15 +7,15 @@
     ],
     "about": "https://gitithub.com/jack/blob/master",
     "valk": "0",
-    "tips": "提示：VPN功能效耗电，不使用时请关闭。节点偶尔因特殊情况会不稳定，若无法使用请断开重连，感谢理解",
-    "tips_en": "Note: VPN consumes more electricity. Turn it off if not in use. It may unstable in Asia sometime. try to restart VPN if unavailable.",
+    "tips": "温馨提示：服务器偶尔因特殊情况会不稳定，若无法使用请断开重连，感谢理解和支持",
+    "tips_en": "Note: Server may unstable in Asia sometime. try to restart VPN if unavailable. Thank you",
     "mco": "5",
     "dlm": "1",
     "mid": "G201903212058",
-    "msg": "维护不易，若喜欢的话，支持一下，谢谢~",
+    "msg": "若喜欢的话，支持一下，谢谢~",
     "mco_en": "10",
     "mid_en": "G201903212058",
-    "msg_en": "If you like it, don't forget to support me, thx",
+    "msg_en": "If you like it, support me, thx",
     "about_en": "https://gitithub.com/jack/blob/master/en",
     "aip": ".DBdcObcsI1Ill1lM41FYhNkkkGkJYkXNkp~khhFYJZZGhLA7fa8gv",
     "org": [
@@ -28,6 +28,6 @@
         "EjO92pwgsI1Ill1lM41FYhNkkkGkJYkXNkpwZJXZJYkkkNec2rQ9cz",
         "QddfTloUsI1Ill1lM41FYhNkkkGkJYkXNkpwJGZXNJYXJF3b0PBqb8"
     ],
-    "share": "免费帮您一键科学上网，马上下载：https://gitithub.com/jack/blob/master",
-    "share_en": "Jack App help you to access block sites using free VPN Servers. Download here: https://gitithub.com/jack/blob/master/en"
+    "share": "《杰克APP》免费翻墙一键科学上网，详情介绍：https://gitithub.com/jack/blob/master",
+    "share_en": "Jack App help you to access block sites using free VPN Servers. Install now: https://gitithub.com/jack/blob/master/en"
 }
