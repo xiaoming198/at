@@ -5,7 +5,7 @@
         "ns04.iandroidapps.com",
         "ns34.eandroidsupport.com"
     ],
-    "about": "https://github.com/xm19/w/blob/master/d.md",
+    "about": "https://gitithub.com/jack/blob/master",
     "valk": "0",
     "tips": "提示：VPN功能效耗电，不使用时请关闭。节点偶尔因特殊情况会不稳定，若无法使用请断开重连，感谢理解",
     "tips_en": "Note: VPN consumes more electricity. Turn it off if not in use. It may unstable in Asia sometime. try to restart VPN if unavailable.",
@@ -16,7 +16,7 @@
     "mco_en": "10",
     "mid_en": "G201903212058",
     "msg_en": "If you like it, don't forget to support me, thx",
-    "about_en": "https://github.com/xm19/w/blob/master/de.md",
+    "about_en": "https://gitithub.com/jack/blob/master/en",
     "aip": ".DBdcObcsI1Ill1lM41FYhNkkkGkJYkXNkp~khhFYJZZGhLA7fa8gv",
     "org": [
         "HIp5H@wosI1Ill1lM41FYhNkkkGkJYkXNkpwFZFZpkFhGYFjy9HGBS",
@@ -28,6 +28,6 @@
         "EjO92pwgsI1Ill1lM41FYhNkkkGkJYkXNkpwZJXZJYkkkNec2rQ9cz",
         "QddfTloUsI1Ill1lM41FYhNkkkGkJYkXNkpwJGZXNJYXJF3b0PBqb8"
     ],
-    "share": "免费帮您一键科学上网，马上下载：https://github.com/xm19/w/blob/master/d.md",
-    "share_en": "Jack App help you to access block sites using free VPN Servers. Download here: https://github.com/xm19/w/blob/master/de.md"
+    "share": "免费帮您一键科学上网，马上下载：https://gitithub.com/jack/blob/master",
+    "share_en": "Jack App help you to access block sites using free VPN Servers. Download here: https://gitithub.com/jack/blob/master/en"
 }
