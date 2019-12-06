@@ -10,7 +10,7 @@
     "tips": "温馨提示：服务器偶尔因特殊情况会不稳定，若无法使用请断开重连，感谢理解和支持",
     "tips_en": "Note: Server may unstable in Asia sometime. try to restart VPN if unavailable. Thank you",
     "mco": "5",
-    "dlm": "1",
+    "dlm": "0",
     "mid": "G201903212058",
     "msg": "若喜欢的话，支持一下，谢谢~",
     "mco_en": "10",
