@@ -28,6 +28,6 @@
         "EjO92pwgsI1Ill1lM41FYhNkkkGkJYkXNkpwZJXZJYkkkNec2rQ9cz",
         "QddfTloUsI1Ill1lM41FYhNkkkGkJYkXNkpwJGZXNJYXJF3b0PBqb8"
     ],
-    "share": "《杰克APP》免费翻墙一键科学上网，详情介绍：https://gitithub.com/jack/blob/master",
+    "share": "《杰克APP》免费翻墙一键科学上网，点击下载：https://gitithub.com/jack/blob/master",
     "share_en": "JackVPN help you to access block sites using free VPN Servers. Install now: https://gitithub.com/jack/blob/master/en"
 }
