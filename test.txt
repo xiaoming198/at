@@ -12,7 +12,7 @@
     "mco": "5",
     "dlm": "0",
     "adpkg": "com.rubygames.assassin",
-    "adtxt": "若无法使用，请点击下载《杰克VPN》轻量版。最小的安装体积，满足最基本日常网页需要",
+    "adtxt": "若无法使用，可点击下载《杰克VPN》轻量版。最小的安装体积，满足最基本日常网页需要",
     "adtxten": "You can also click download the [Jack VPN Lite] (the minimum verson) to meet the most basic daily websites needs.",
     "adurl": "",
     "adurlen": "",    
