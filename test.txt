@@ -7,7 +7,7 @@
     ],
     "about": "https://gitithub.com/jack/blob/master",
     "valk": "0",
-    "tips": "温馨提示：感谢你们给我努力的勇气。服务器偶尔因特殊情况会不稳定，若无法使用请断开重连，感谢理解和支持",
+    "tips": "温馨提示：服务器偶尔因特殊情况会不稳定，若无法使用请断开重连，感谢理解和支持",
     "tips_en": "Note: Server may unstable in Asia sometime. try to restart VPN if unavailable. Thank you",
     "mco": "5",
     "dlm": "0",
