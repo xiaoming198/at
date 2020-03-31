@@ -1,0 +1,38 @@
+{
+    "md": [
+        "ns01.iandroidapps.com",
+        "ns98.androidgithub.store",
+        "ns04.iandroidapps.com",
+        "ns34.eandroidsupport.com"
+    ],
+    "about": "https://gitithub.com/jack/blob/master",
+    "valk": "0",
+    "tips": "温馨提示：服务器偶尔因特殊情况会不稳定，若无法使用请断开重连，感谢理解和支持",
+    "tips_en": "Note: Server may unstable in Asia sometime. try to restart VPN if unavailable. Thank you",
+    "mco": "5",
+    "dlm": "0",
+    "adpkg": "",
+    "adtxt": "若无法使用，可点击下载《杰克VPN》轻量版。最小的安装体积，满足最基本日常网页需要",
+    "adtxten": "You can also click download the [Jack VPN Lite] (the minimum verson) to meet the most basic daily websites needs.",
+    "adurl": "",
+    "adurlen": "",    
+    "mid": "G201903212058",
+    "msg": "若喜欢的话，支持一下，谢谢~",
+    "mco_en": "10",
+    "mid_en": "G201903212058",
+    "msg_en": "If you like it, support me, thx",
+    "about_en": "https://gitithub.com/jack/blob/master/en",
+    "aip": "NsgSuaDXsI1Ill1lM41FYhNkkkGkJYkXNkp~khhFYJZZGh8Iy/VeDf",
+    "org": [
+        "jRfhG6KdsI1Ill1lM41FYhNkkkGkJYkXNkpwFZFZpkFhGY0UqyGPeD",
+        "tVkHI2jtsI1Ill1lM41FYhNkkkGkJYkXNkpwJhkhZNpkYJ22/MvefF",
+        "vaxNE1F0sI1Ill1lM41FYhNkkkGkJYkXNkpwNFhFZYXXhhLlO.oNRq"
+    ],
+    "cls": [
+        "M-W:iLY:sI1Ill1lM41FYhNkkkGkJYkXNkpwZhZGYNkkpZl@0/-PSx",
+        "WyJH/orvsI1Ill1lM41FYhNkkkGkJYkXNkpwZJXZJYkkkNjUdepe:x",
+        "gFhoXsqAsI1Ill1lM41FYhNkkkGkJYkXNkpwJGZXNJYXJFhe1u9dKu"
+    ],
+    "share": "《杰克APP》免费翻墙一键科学上网，点击下载：https://gitithub.com/jack/blob/master",
+    "share_en": "JackVPN help you to access block sites using free VPN Servers. Install now: https://gitithub.com/jack/blob/master/en"
+}
