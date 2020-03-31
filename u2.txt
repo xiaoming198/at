@@ -1,0 +1,14 @@
+{
+  "min_ver_code": "100",
+  "new_ver_code": "102",
+  "new_ver_name": "1.0.2",
+  "dwn_app_page": "https://gitithub.com/jack/blob/master/en",
+  "new_ver_logs":[
+    "[1] Add 2000 proxy domain",
+    "[2] Improve compatibility and stability",
+    "[3] Thank you for your support",
+    "【1】增加2000个可代理的网站域名",
+    "【2】提升兼容性和稳定性",
+    "【3】维护不易，感谢支持"
+  ]
+}
