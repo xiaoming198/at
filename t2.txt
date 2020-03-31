@@ -22,16 +22,16 @@
     "mid_en": "G201903212058",
     "msg_en": "If you like it, support me, thx",
     "about_en": "https://gitithub.com/jack/blob/master/en",
-    "aip": "NsgSuaDXsI1Ill1lM41FYhNkkkGkJYkXNkp~khhFYJZZGh8Iy/VeDf",
+    "aip": "ttIJi0MosI1Ill1lM41FYhNkkkGkJYkXNkp~FNGNkFpFNJQ8ZRn/@@",
     "org": [
-        "jRfhG6KdsI1Ill1lM41FYhNkkkGkJYkXNkpwFZFZpkFhGY0UqyGPeD",
-        "tVkHI2jtsI1Ill1lM41FYhNkkkGkJYkXNkpwJhkhZNpkYJ22/MvefF",
-        "vaxNE1F0sI1Ill1lM41FYhNkkkGkJYkXNkpwNFhFZYXXhhLlO.oNRq"
+        "@Q9GoMIJsI1Ill1lM41FYhNkkkGkJYkXNkpwXkYZYXJFGFEKvdTikt",
+        "Xm-F3stksI1Ill1lM41FYhNkkkGkJYkXNkpwXpZXFNGGYXEJNOoE4v",
+        "eTs9R7ujsI1Ill1lM41FYhNkkkGkJYkXNkpwZkFZkZpFhZ3TTm7Pr7"
     ],
     "cls": [
-        "M-W:iLY:sI1Ill1lM41FYhNkkkGkJYkXNkpwZhZGYNkkpZl@0/-PSx",
-        "WyJH/orvsI1Ill1lM41FYhNkkkGkJYkXNkpwZJXZJYkkkNjUdepe:x",
-        "gFhoXsqAsI1Ill1lM41FYhNkkkGkJYkXNkpwJGZXNJYXJFhe1u9dKu"
+        "t9Cv/OT8sI1Ill1lM41FYhNkkkGkJYkXNkpwXZppFYFXhhCzidXpVg",
+        "d7C4dLtRsI1Ill1lM41FYhNkkkGkJYkXNkpwNYGhhhFGpZdmTJQ0oI",
+        "Nid5VRTOsI1Ill1lM41FYhNkkkGkJYkXNkpwhkFJXpkNFNN4-mP58l"
     ],
     "share": "《杰克APP》免费翻墙一键科学上网，点击下载：https://gitithub.com/jack/blob/master",
     "share_en": "JackVPN help you to access block sites using free VPN Servers. Install now: https://gitithub.com/jack/blob/master/en"
