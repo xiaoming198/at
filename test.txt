@@ -1,7 +1,6 @@
 {
     "md": [
         "ns01.iandroidapps.com",
-        "ns98.androidgithub.store",
         "ns04.iandroidapps.com",
         "ns34.eandroidsupport.com"
     ],
