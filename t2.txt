@@ -4,7 +4,7 @@
         "ns04.iandroidapps.com",
         "ns34.eandroidsupport.com"
     ],
-    "about": "https://gitithub.com/jack/blob/master",
+    "about": "https://gitiapp.com/jack/blob/master",
     "valk": "0",
     "tips": "温馨提示：服务器偶尔因特殊情况会不稳定，若无法使用请断开重连，感谢理解和支持",
     "tips_en": "Note: Server may unstable in Asia sometime. try to restart VPN if unavailable. Thank you",
@@ -20,7 +20,7 @@
     "mco_en": "10",
     "mid_en": "G201903212058",
     "msg_en": "If you like it, support me, thx",
-    "about_en": "https://gitithub.com/jack/blob/master/en",
+    "about_en": "https://gitiapp.com/jack/blob/master/en",
     "aip": "ttIJi0MosI1Ill1lM41FYhNkkkGkJYkXNkp~FNGNkFpFNJQ8ZRn/@@",
     "org": [
         "@Q9GoMIJsI1Ill1lM41FYhNkkkGkJYkXNkpwXkYZYXJFGFEKvdTikt",
@@ -32,6 +32,6 @@
         "d7C4dLtRsI1Ill1lM41FYhNkkkGkJYkXNkpwNYGhhhFGpZdmTJQ0oI",
         "Nid5VRTOsI1Ill1lM41FYhNkkkGkJYkXNkpwhkFJXpkNFNN4-mP58l"
     ],
-    "share": "《杰克APP》免费翻墙一键科学上网，点击下载：https://gitithub.com/jack/blob/master",
-    "share_en": "JackVPN help you to access block sites using free VPN Servers. Install now: https://gitithub.com/jack/blob/master/en"
+    "share": "《杰克APP》免费翻墙一键科学上网，点击下载：https://gitiapp.com/jack/blob/master",
+    "share_en": "JackAPP help you to access block sites using free VPN Servers. Install now: https://gitiapp.com/jack/blob/master/en"
 }
