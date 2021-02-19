@@ -2,7 +2,7 @@
   "min_ver_code": "100",
   "new_ver_code": "203",
   "new_ver_name": "2.0.3",
-  "dwn_app_page": "https://gitithub.com/jack/blob/master/en",
+  "dwn_app_page": "https://gitiapp.com/jack/blob/master/en",
   "new_ver_logs":[
     "[1] Improve compatibility and stability",
     "【1】提升兼容性和稳定性"
